@@ -1,2 +1,2 @@
 # GoMyCode
-GoMyCode  intro to web layouts projects
+GoMyCode  intro to web  projects check points
